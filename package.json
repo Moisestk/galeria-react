@@ -1,7 +1,7 @@
 {
   "name": "galeria",
   "private": true,
-  "homepage": "http://Moisestk.github.io/galeria-react",
+  "homepage": "https://moisestk.github.io/galeria-react",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
