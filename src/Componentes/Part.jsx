@@ -1,4 +1,4 @@
-import '/estilos/style2.css'
+import './estilos/style2.css'
 import React, { useState } from 'react';
 function Part() {
     const [fullImage, setFullImage] = useState(null);
