@@ -9,10 +9,11 @@ function Principal() {
         <Router >
           <Navegacion />
           <Routes >
-            <Route path='/'exact Component={Vistas}/>
+            <Route path='/vistas'exact Component={Vistas}/>
             <Route path='/Fotos' Component={Fotos}/>
           </Routes >
         </Router>
+        <Fotos />
     </>
   )
 }

@@ -13,7 +13,7 @@ function Navegacion() {
           <div className="collapse navbar-collapse" id="navbarNav">
             <ul className="navbar-nav mx-auto">
               <li className="nav-item">
-              <Link className='nav-link' to='/'>Vistas</Link>
+              <Link className='nav-link' to='/vistas'>Vistas</Link>
               </li>
               <li className="nav-item">
               <Link className='nav-link' to='/Fotos'>Imagenes</Link>
